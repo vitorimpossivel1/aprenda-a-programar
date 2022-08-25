@@ -4,4 +4,4 @@ let profissao = "mecanico"
 let idade = 29
 let cidadedossonhos = "calgary canada"
 
-console.log(nome)
+console.log(nome, email, profissao, idade, cidadedossonhos)
